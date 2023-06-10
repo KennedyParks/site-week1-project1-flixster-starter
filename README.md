@@ -38,13 +38,15 @@ Estimated time spent: **20** hours spent in total
 - [x] Improve the user experience through CSS & animation.
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
 - [x] Implement anything else that you can get done to improve the app functionality!
-  - [x] I added a back to top button at the bottom of the page
+  - [x] I added a Back To Top button at the bottom of the page
+  - [x] I added a sticky search bar so users can search from any point in the page
+  - [x] I added color coding for the votes depending on ratings: 8 > green, < 8 yellow, < 5 red
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
+![Kapture 2023-06-09 at 20 32 33](https://github.com/KennedyParks/site-week1-project1-flixster-starter/assets/112662157/17e95c88-9956-4131-b940-5f6d7dbb8f66)
 
-`ADD_EMBEDDED_CODE_HERE`
+`(https://imgur.com/a/OaBxwvY)`
 
 ### Reflection
 
