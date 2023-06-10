@@ -46,7 +46,7 @@ Estimated time spent: **20** hours spent in total
 
 ![Kapture 2023-06-09 at 20 32 33](https://github.com/KennedyParks/site-week1-project1-flixster-starter/assets/112662157/17e95c88-9956-4131-b940-5f6d7dbb8f66)
 
-`(https://imgur.com/a/OaBxwvY)`
+(https://imgur.com/a/OaBxwvY)
 
 ### Reflection
 
