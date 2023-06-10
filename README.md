@@ -56,11 +56,11 @@ The topics in the labs absolutely helped me with project 1. Lab 2 helped me get 
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
- - If I had more time, I would have loved to create a hover popup on every movie card displaying the movie overviews and embedding the trailers.
- - I would have also liked to add a widget that uses geolocation to populate the movie card popups with local theater showtimes for the specific movie.
+If I had more time, I would have loved to create a hover popup on every movie card displaying the movie overviews and embedding the trailers.
+I would have also liked to add a widget that uses geolocation to populate the movie card popups with local theater showtimes for the specific movie.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
- - Using the flixter API went well for me. I was able to connect it and get the data I needed very quickly which gave me more time to focus on other things. Adding the CSS also went well for me. Something that didn't go as planned was running into an issue in my JavaScript. It took me a while to figure out how to append new movies at the bottom of the page instead of reloading the page. Essentially, I was able to do it by making a new function. Something one of my peers did was add hover effects to make the movie posters highlight when hovered. That was a nice feature.
+Using the flixter API went well for me. I was able to connect it and get the data I needed very quickly which gave me more time to focus on other things. Adding the CSS also went well for me. Something that didn't go as planned was running into an issue in my JavaScript. It took me a while to figure out how to append new movies at the bottom of the page instead of reloading the page. Essentially, I was able to do it by making a new function. Something one of my peers did was add hover effects to make the movie posters highlight when hovered. That was a nice feature.
 
 ### Open-source libraries used
 
