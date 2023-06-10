@@ -46,26 +46,24 @@ Estimated time spent: **20** hours spent in total
 
 ![Kapture 2023-06-09 at 20 32 33](https://github.com/KennedyParks/site-week1-project1-flixster-starter/assets/112662157/17e95c88-9956-4131-b940-5f6d7dbb8f66)
 
-(https://imgur.com/a/OaBxwvY)
+https://imgur.com/a/OaBxwvY
 
 ### Reflection
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The topics in the labs absolutely helped me with project 1. Lab 2 helped me get a better understanding of JavaScript functions and I was able to use that in the project. Also, learning how to dynamically change HTML using JavaScript was new for me and I was able to use that in project 1 as well.
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+ - If I had more time, I would have loved to create a hover popup on every movie card displaying the movie overviews and embedding the trailers.
+ - I would have also liked to add a widget that uses geolocation to populate the movie card popups with local theater showtimes for the specific movie.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
-
-Add your response here
+ - Using the flixter API went well for me. I was able to connect it and get the data I needed very quickly which gave me more time to focus on other things. Adding the CSS also went well for me. Something that didn't go as planned was running into an issue in my JavaScript. It took me a while to figure out how to append new movies at the bottom of the page instead of reloading the page. Essentially, I was able to do it by making a new function. Something one of my peers did was add hover effects to make the movie posters highlight when hovered. That was a nice feature.
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
-
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+I would like to give a shoutout to Alejandro for helping me with lab 2 and Devarsh for helping me with my JavaScript callback functions in the project!! Thank you!! ❤️
