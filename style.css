@@ -1,1 +1,147 @@
 
+body {
+    background-color: black;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+#form{
+    position: sticky;
+  top: 20px;
+}
+
+.search {
+  width: 95%;
+  border: 3px solid #d27742;
+  padding: 5px;
+  height: 30px;
+  border-radius: 30px;
+  outline: none;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Urbanist', sans-serif;
+  font-weight: 900;
+}
+
+.search:hover {
+    border-color: white;
+    transition: .25s;
+}
+
+.now-playing {
+    margin-top: 30px;
+    color: white;
+}
+
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.movie {
+    color: white;
+    display: block;
+    font-weight: 300;
+    width: 400px;
+    margin: 10px;
+}
+
+.movie img{
+    width: 40%;
+
+}
+
+.movie-info {
+    width: 100%;
+    font-weight: 900;
+}
+
+.movie-info span.green{
+    color: lightgreen;
+}
+
+.movie-info span.orange{
+    color: orange;
+}
+
+.movie-info span.red{
+    color: red;
+}
+
+.overview {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    padding: 1rem;
+    max-height: 100%;
+    transform:translateY(-101%);
+    transition:transform 0.3s ease-in;
+}
+
+.movie:hover .overview{
+    transform:translateY(0);
+}
+
+#clearButton {
+    background-color: rgb(243, 114, 54);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#clearButton:hover {
+    background-color: rgb(226, 56, 50);
+}
+
+#loadMoreButton {
+    background-color: rgb(243, 174, 54);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#loadMoreButton:hover {
+    background-color: rgb(226, 56, 50);
+}
+
+#backToTopButton {
+    background-color: rgb(243, 114, 54);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#backToTopButton:hover {
+    background-color: rgb(226, 56, 50);
+}
+
+

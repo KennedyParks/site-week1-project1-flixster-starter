@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@300;900&display=swap" rel="stylesheet">
+    <title>Flixter</title>
+</head>
+
+<body>
+    <h1 id="flixter-header">🎬 Flixter 🎬</h1>
+    
+    <form id="form">
+        <input type="text" placeholder="Search movie" id="search" class="search">
+    </form>
+
+    <main id="main">
+        <div class="movie">
+          <img class="movie-img" src="https://image.tmdb.org/t/p/w500/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" alt="Creed III">
+          <h3>Creed III</h3>
+
+            <div class="movie-info">
+                <span class="green"></span>
+            </div>
+
+            <div class="overview">
+                This is an overview
+            </div>
+        </div>
+    </main>
+
+    <button id="loadMoreButton">Load More Movies</button>
+    <button id="clearButton">Clear Added Movies</button>
+    <a href="#flixter-header"><button id="backToTopButton">Back To Top ⬆️</button></a>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
