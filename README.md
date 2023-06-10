@@ -5,7 +5,7 @@ Submitted by: **Kennedy Parks**
 
 Estimated time spent: **20** hours spent in total
 
-https://kennedyparks.github.io/site-week1-project1-flixster-starter/
+**Live Website** https://kennedyparks.github.io/site-week1-project1-flixster-starter/
 
 ### Application Features
 
