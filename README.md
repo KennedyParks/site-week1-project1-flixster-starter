@@ -38,7 +38,7 @@ Estimated time spent: **20** hours spent in total
 - [x] Improve the user experience through CSS & animation.
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
 - [x] Implement anything else that you can get done to improve the app functionality!
-  I added a back to top button at the bottom of the page
+  - [x] I added a back to top button at the bottom of the page
 
 ### Walkthrough Video
 
